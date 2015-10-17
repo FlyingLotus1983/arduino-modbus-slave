@@ -1,6 +1,6 @@
-#include<modbusRegister.h>
-#include<modbus.h>
-#include<Wprogram.h>
+#include <modbusRegister.h>
+#include <modbus.h>
+#include <Arduino.h>
 
 modbusRegister::modbusRegister(void)
 {

@@ -3,7 +3,7 @@
 
 #include <modbusRegBank.h>
 #include <modbus.h>
-#include <Wprogram.h>
+#include <Arduino.h>
 
 class modbusDevice:public modbusRegBank
 {

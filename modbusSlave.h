@@ -3,7 +3,7 @@
 
 #include <modbus.h>
 #include <modbusDevice.h>
-#include <Wprogram.h>
+#include <Arduino.h>
 
 /* Table of CRC values for high–order byte */
 const byte _auchCRCHi[] = {

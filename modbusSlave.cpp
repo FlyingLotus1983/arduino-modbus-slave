@@ -1,7 +1,7 @@
 #include <modbusSlave.h>
 #include <modbus.h>
 #include <modbusDevice.h>
-#include <Wprogram.h>
+#include <Arduino.h>
 
 modbusSlave::modbusSlave()
 {

@@ -1,7 +1,7 @@
 #ifndef MODBUSREGISTER
 #define MODBUSREGISTER
 
-#include <Wprogram.h>
+#include <Arduino.h>
 #include <avr/eeprom.h>
 #include "EEPROM.h"
 
